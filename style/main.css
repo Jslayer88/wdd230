@@ -1,25 +1,61 @@
-body {
+ @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap'); 
+body{
     width: 900px;
     margin: 0 auto;
+
 }
 
-header {
-    
+header{
     display: flex;
     justify-content: center;
-    height: 200px;
-    background-color: blue;
-    color: white;
+    border-radius: 30px;
+    height: 225px;
+    background-color: #1EA9F1;
+    box-shadow: 5px 5px 10px black;
+    margin-top: 20px;
+
+    
 }
+
 header h1 {
-    font-size: 400%;
+    font-size:75px;
+    padding-left:5%;
+    text-shadow: 5px 5px 10px black;
+    font-family: 'Amatic SC';
+
+
 }
-header img {
-    box-shadow: 30 0 0px #444;
-    
-    
-    width: 200px;
-    height: auto;
+
+main h2{
+    text-shadow: 5px 5px 10px black;
+    text-align: center;
+    font-family: 'Amatic SC';
+    font-size: 45px;
+
+}
+
+header img{
+    border-radius: 20px;
     
 }
+
+#lessons{
+    font-size:larger
+
+}
+
+footer {
+    text-align: center;
+    height: 70px;
+    background-color: #1EA9F1;
+    box-shadow: 5px 5px 10px black;
+    font-size: larger;
+    border-radius: 30px;
+    
+}
+
+#timeupdated{
+    color:yellow ;
+}
+
 
