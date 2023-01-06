@@ -23,22 +23,3 @@ header img {
     
 }
 
-main h2{
-    font-size: 150%;
-    text-align: center;
-}
-main li{
-    font-size: 150%;
-}
-
-header,
-footer {
-  border-radius: 10px;
-}
-
-footer {
-    text-align: center;
-    height: 80px;
-    background-color: green;
-    color: white;
-}
