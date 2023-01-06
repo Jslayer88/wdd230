@@ -1,4 +1,4 @@
- @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap'); 
 body{
     width: 900px;
     margin: 0 auto;
@@ -22,6 +22,7 @@ header h1 {
     padding-left:5%;
     text-shadow: 5px 5px 10px black;
     font-family: 'Amatic SC';
+    color: white
 
 
 }
@@ -55,7 +56,7 @@ footer {
 }
 
 #timeupdated{
-    color:#981b1e;
+    color:black;
 }
 
 
