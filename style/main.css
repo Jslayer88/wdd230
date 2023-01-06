@@ -13,7 +13,7 @@ header{
     background-color: #1EA9F1;
     box-shadow: 5px 5px 10px black;
     margin-top: 20px;
-    color: white;
+   
 
     
 }
@@ -23,7 +23,7 @@ header h1 {
     padding-left:5%;
     text-shadow: 5px 5px 10px black;
     font-family: 'Amatic SC';
-    font-weight: bold;
+    
 }
 
 main h2{
