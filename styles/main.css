@@ -13,6 +13,8 @@ header{
     background-color: #1EA9F1;
     box-shadow: 5px 5px 10px black;
     margin-top: 20px;
+    
+ 
    
 
     
@@ -51,6 +53,7 @@ footer {
     box-shadow: 5px 5px 10px black;
     font-size: larger;
     border-radius: 30px;
+    flex-wrap: flex;
     
 }
 
