@@ -1,0 +1,59 @@
+
+
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+
+    
+
+}
+
+header{
+    border-radius: 30px;
+    text-align: center;
+    background-color: #1EA9F1;
+    box-shadow: 5px 5px 10px black;
+}
+
+
+
+main{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    column-gap: 5%;
+}
+
+main section{
+    border:2px solid black;
+ 
+    
+}
+
+main section h1{
+    text-align: center;
+}
+
+main section h2{
+    text-align: center;
+}
+
+main section p{
+    text-align: center;
+}
+
+main section img{
+    display: block;
+    margin: auto;
+    height:auto;
+    width:100%;
+    border:2px solid black;
+
+
+}
+footer{
+    border-radius: 30px;
+    text-align: center;
+    background-color: #1EA9F1;
+    box-shadow: 5px 5px 10px black;
+}
