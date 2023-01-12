@@ -11,4 +11,15 @@
     main section:nth-child(3) {
         grid-column: span 1;
     }
+
+    header {
+        padding-top: 1px;
+        padding-bottom: 1px;
+        margin-top: 10px;
+        
+    }
+
+    footer{
+        margin-bottom: 10px;
+    }
 }
