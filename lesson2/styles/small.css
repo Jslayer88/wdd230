@@ -3,7 +3,9 @@
 .container{
     max-width: 1000px;
     margin: 0 auto;
-
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Roboto'
     
 
 }
@@ -22,16 +24,29 @@ main{
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
     column-gap: 5%;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 10px;
+    
 }
 
 main section{
-    border:2px solid black;
- 
-    
+    border:2px solid tan;
+    margin-top: 10px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
 }
 
 main section h1{
     text-align: center;
+    display:flex;
+    justify-content: center;
+    background-color: tan;
+    margin-top: -1px;
+    border: 2px solid tan;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+
 }
 
 main section h2{
@@ -47,13 +62,25 @@ main section img{
     margin: auto;
     height:auto;
     width:100%;
-    border:2px solid black;
-
-
+    border:1px solid black;
 }
+    
+main section a{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+
+
 footer{
     border-radius: 30px;
     text-align: center;
     background-color: #1EA9F1;
     box-shadow: 5px 5px 10px black;
+    padding: 15px;
+    font-family: 'Roboto';
+    font-size:18px;
+    
 }
