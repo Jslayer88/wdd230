@@ -2,6 +2,8 @@
 
     .container {
         max-width: 1400px;
+        margin-left: 60px ;
+        margin-right:60px;
     }
 
     main{
@@ -16,6 +18,8 @@
         padding-top: 1px;
         padding-bottom: 1px;
         margin-top: 10px;
+        margin-right: 20px;
+
         
     }
 
