@@ -1,12 +1,10 @@
-
-
 .container{
     max-width: 1000px;
-   margin: 0 auto;
+    margin: 0 auto;
     padding-left: 20px;
     padding-right: 20px;
     font-family: 'Roboto';
-   
+    
 
 }
 
@@ -42,7 +40,7 @@ main section{
    
 }
 
-main section h1{
+main section h2{
     text-align: center;
     display:flex;
     justify-content: center;
@@ -53,13 +51,12 @@ main section h1{
 
 }
 
-main section h2{
+main section h3{
     text-align: center;
 }
 
 main section p{
     text-align: center;
-    font-family: 'Roboto';
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -75,8 +72,7 @@ main section img{
 main section a{
         display: flex;
         justify-content: center;
-        align-items: center;
-        
+                
     }
 
 
@@ -87,7 +83,6 @@ footer{
     background-color: #1EA9F1;
     box-shadow: 5px 5px 10px black;
     padding: 15px;
-    font-family: 'Roboto';
     font-size:18px;
    margin-bottom: 15px;
 
