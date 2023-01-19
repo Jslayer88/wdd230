@@ -17,6 +17,9 @@ header{
     text-align: center;
     background-color: #1EA9F1;
     border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
     
 }
 
@@ -37,10 +40,7 @@ nav a {
 	text-decoration: dotted;
 	font-size: 0.9rem;
 }
-header,nav,main {
-	max-width: 960px;
-	margin: 0 auto;
-}
+
 
 #primary{
   
@@ -78,7 +78,11 @@ header,nav,main {
 
 }
 
-
+div section p{
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
 
 nav a:hover {
 	background-color: tan;
@@ -113,5 +117,9 @@ footer {
     background-color: #1EA9F1;
     font-size: larger;
     border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
 }
 
