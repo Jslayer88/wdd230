@@ -42,23 +42,23 @@ header,nav,main {
 	margin: 0 auto;
 }
 
-#header{
-    color:white;
-    background-color: #006d77;
+#primary{
+  
+    background-color: #738290;
 }
 
-#paragraph{
-    color:white;
-    background-color: black;
+#secondary{
+    
+    background-color: #a1b5d8;
 }
 #accent1{
-    color: white;
-    background-color:#83c5be;
+    
+    background-color:#dad7cd;
 }
 
 #accent2{
-    color:black;
-    background-color:#ffddd2;
+   
+    background-color:#e2e2d9;
 }
 
 #colors{
@@ -68,12 +68,12 @@ header,nav,main {
     text-align: center;
     border:1px solid black;}
 
-#font1{
+.font1{
         font-family: 'Open Sans';
 
     }
 
-#font2{
+.font2{
     font-family:'Roboto';
 
 }
