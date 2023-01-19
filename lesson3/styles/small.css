@@ -97,6 +97,16 @@ img{
     
 }
 
+ol {
+    display: grid;
+    gap:10px;
+    
+}
+
+ li{
+    text-align: justify;
+}
+
 footer {
     text-align: center;
     padding: 1rem;
